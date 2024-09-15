@@ -18,7 +18,7 @@ This repository contains a simple chat application implemented in Java. The appl
 1. Open a terminal and navigate to the directory containing the `server.java` file.
 2. Compile the `server.java` file:
    ```bash
-   javac server.java
+   javac Server.java
    ```
 3. Run the server:
    ```bash
@@ -29,7 +29,7 @@ This repository contains a simple chat application implemented in Java. The appl
 1. Open a new terminal and navigate to the directory containing the `client.java` file.
 2. Compile the `client.java` file:
    ```bash
-   javac client.java
+   javac Client.java
    ```
 3. Run the client:
    ```bash
@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or feedback, please reach out to [www.ssmahanty@gmail.com](mailto:www.ssmahanty@gmail.com).
-```
+
 # Happy Coding !
